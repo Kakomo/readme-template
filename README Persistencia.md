@@ -1,4 +1,4 @@
-![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/readme-template/main/Readme-%20Flutter%20Fundamentos.png)
+![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/readme-template/main/Readme-%20Flutter%20Persist%C3%AAncia.png)
 
 # Bytebank
 
@@ -8,7 +8,7 @@ O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá
 
 Neste curso inicial você será capaz de criar duas telas para simular uma transação de dinheiro para uma conta!
 
-![](https://raw.githubusercontent.com/Kakomo/readme-template/main/Flutter%20Fundamentos%20Projeto.gif)
+![](https://raw.githubusercontent.com/Kakomo/readme-template/main/Flutter%20Persist%C3%AAncia.gif)
 
 ## ✔️ Técnicas e tecnologias
 
