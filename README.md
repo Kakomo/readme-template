@@ -5,7 +5,7 @@
 | ID  | Created | Revised | Done | Link                                                                           |
 | --- | ------- | ------- | ---- | ------------------------------------------------------------------------------ |
 | F1  | OK      | OK      | OK   | [(Publicado) Fundamentos](https://github.com/alura-cursos/flutter-fundamentos) |
-| F2  |         |         |      | [Persistência](/F2-Persistencia/README.md)                                     |
+| F2  | OK      |         |      | [Persistência](/F2-Persistencia/README.md)                                     |
 | F3  |         |         |      | [WebAPI](/F3-WebAPI/README.md)                                                 |
 | F4  |         |         |      | [HTTP](/F4-HTTP/README.md)                                                     |
 | F5  | OK      | OK      | OK   | [(Publicado) Crashlytics](https://github.com/alura-cursos/flutter-crashlytics) |
