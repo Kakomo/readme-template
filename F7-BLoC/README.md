@@ -8,7 +8,7 @@ Esse repositório é uma continuação das funcionalidades criadas no projeto [B
 
 ## 🔨 Características do projeto
 
-Neste projeto você será capaz de usar o [**Gerenciador de Estados BLoC**](https://bloclibrary.dev/#/gettingstarted) para tornar o desenvolvimento da sua aplicação mais eficiente e escalável.
+Neste projeto, você será capaz de usar o [**Gerenciador de Estados BLoC**](https://bloclibrary.dev/#/gettingstarted) para tornar o desenvolvimento da sua aplicação mais eficiente e escalável.
 
 ![Gif Explicativo](FlutterBLoC.gif)
 

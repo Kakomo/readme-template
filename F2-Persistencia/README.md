@@ -8,7 +8,7 @@ Esse repositório é uma continuação das funcionalidades criadas no projeto [B
 
 ## 🔨 Características do projeto
 
-Neste projeto você será capaz de criar e salvar novos contatos no Bytebank. Além disso aprenderá novos widgets para deixar a interface gráfica ainda mais funcional!
+Neste projeto, você será capaz de criar e salvar novos contatos no Bytebank. Além disso aprenderá novos widgets para deixar a interface gráfica ainda mais funcional!
 
 ![GIF animado demonstrando funcionalidade final do projeto](Persistencia.gif)
 
