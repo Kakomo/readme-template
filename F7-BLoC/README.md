@@ -2,41 +2,39 @@
 
 # Bytebank
 
-O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá fazer transações bancárias, informando o numero da conta e o valor monetário da transação!
+O Bytebank App é a simulação do aplicativo de um banco. Com ele, você poderá fazer transações bancárias, informando o número da conta e o valor monetário da transação!
+
+Esse repositório é uma continuação das funcionalidades criadas no projeto [Bytebank - Gerenciamento de Estados com Provider](https://github.com/alura-cursos/flutter-gerenciamento-de-estado/tree/aula-4).
 
 ## 🔨 Características do projeto
 
-Neste curso avançado você aprenderá a usar o **Gerenciador de Estados BloC** para tornar o desenvolvimento da sua aplicação mais eficiente e escalável.
+Neste projeto você será capaz de usar o **Gerenciador de Estados BLoC** para tornar o desenvolvimento da sua aplicação mais eficiente e escalável.
 
 ![Gif Explicativo](FlutterBLoC.gif)
 
 ## ✔️ Técnicas e tecnologias
 
-**Veja mais de perto o que você aprenderá sobre** :
+**Para desenvolver o projeto, utilizamos as seguintes técnicas e tecnologias:**
 
-- O que é e como usar `Blocs e Cubits`
-- Como fazer o `Gerenciamento de Estado com BloC`
-- Como usar um `Framework de Gerenciamento de Estado`
-- Como `separar UI, Estado e Eventos`
+- `BLoCs e Cubits`
+- `Gerenciamento de Estado com BLoC`
+- `Framework de Gerenciamento de Estado`
+- `Separação da UI, Estado e Eventos`
 
 ## 📁 Acesso ao projeto
 
-O acesso ao projeto está separado da seguinte forma:
+Cada branch separa uma etapa do desenvolvimento do projeto, estando divididas da seguinte forma:
 
-```
-├── aula-1
-├── aula-2
-├── aula-3
-└── aula-4
-```
-
-A branch [aula-1](https://github.com/alura-cursos/flutter-bloc/tree/aula1) é o ponto de partida do repositório, é partindo dela que desenvolveremos a aula-1. Por sua vez, a aula-2 é uma continuação da aula-2 e assim vai sucessivamente. A branch aula-4 é a final, nela você encontra o código final criado no curso até a aula-4.
+- [**aula-1**](https://github.com/alura-cursos/flutter-bloc/tree/aula1) - Uso do BLoC e do Flutter BLoC
+- [**aula-2**](https://github.com/alura-cursos/flutter-bloc/tree/aula2) - Integração do Fluxo de Telas
+- [**aula-3**](https://github.com/alura-cursos/flutter-bloc/tree/aula3) - Criando um Framework
+- [**aula-4**](https://github.com/alura-cursos/flutter-bloc/tree/aula4) - Uso do BLoC para criação de formulários
 
 Você pode [baixar o zip](https://github.com/alura-cursos/flutter-bloc/archive/aula4.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/flutter-bloc/tree/aula4).
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para executar este projeto você precisa:**
+**Para executar este projeto, você precisa de:**
 
 - Ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina
 - Ter algum editor de códigos ou IDE como o [Android Studio](https://developer.android.com/studio) ou [Intellij Idea](https://www.jetbrains.com/pt-br/idea/download/).
@@ -47,6 +45,6 @@ Para mais instruções sobre a configuração do ambiente, recomendamos a leitur
 
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-bloc) que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode acessar o curso [Flutter: Streams de programação reativa com BLoC](https://cursos.alura.com.br/course/flutter-bloc) que desenvolve o projeto desde o começo!
 
 Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-android)
