@@ -4,11 +4,11 @@
 
 O Bytebank App é a simulação do aplicativo de um banco. Com ele, você poderá fazer transações bancárias, informando o número da conta e o valor monetário da transação!
 
-Esse repositório é uma continuação das funcionalidades criadas no projeto [Bytebank - Gerenciamento de Estados com Provider](https://github.com/alura-cursos/flutter-gerenciamento-de-estado/tree/aula-4).
+Esse repositório é uma continuação das funcionalidades criadas no projeto [Bytebank - Gerenciamento de Estados com Provider](https://github.com/alura-cursos/flutter-gerenciamento-de-estado).
 
 ## 🔨 Características do projeto
 
-Neste projeto você será capaz de usar o **Gerenciador de Estados BLoC** para tornar o desenvolvimento da sua aplicação mais eficiente e escalável.
+Neste projeto você será capaz de usar o [**Gerenciador de Estados BLoC**](https://bloclibrary.dev/#/gettingstarted) para tornar o desenvolvimento da sua aplicação mais eficiente e escalável.
 
 ![Gif Explicativo](FlutterBLoC.gif)
 
@@ -47,4 +47,4 @@ Para mais instruções sobre a configuração do ambiente, recomendamos a leitur
 
 Gostou do projeto e quer conhecer mais? Você pode acessar o curso [Flutter: Streams de programação reativa com BLoC](https://cursos.alura.com.br/course/flutter-bloc) que desenvolve o projeto desde o começo!
 
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-android)
+Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)

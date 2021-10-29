@@ -48,4 +48,4 @@ Para mais instruções sobre a configuração do ambiente, recomendamos a leitur
 
 Gostou do projeto e quer conhecer mais? Você pode acessar o curso [Persistência com Flutter: Crie um app com armazenamento interno](https://cursos.alura.com.br/course/flutter-persistencia-interna) que desenvolve o projeto desde o começo!
 
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-android)
+Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
