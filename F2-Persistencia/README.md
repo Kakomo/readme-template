@@ -2,19 +2,19 @@
 
 # Bytebank
 
-O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá fazer transações bancárias, informando o numero da conta e o valor monetário da transação!
+O Bytebank App é a simulação do aplicativo de um banco. Com ele, você poderá fazer transações bancárias, informando o número da conta e o valor monetário da transação!
 
-No curso [Fundamentos de Flutter: Crie o seu primeiro App](https://cursos.alura.com.br/course/flutter-fundamentos) aprendemos a usar o framework Flutter para construir as primeiras telas do Bytebank. Agora no curso [Persistência com Flutter: Crie um app com armazenamento interno](https://cursos.alura.com.br/course/flutter-persistencia-interna) vamos aprender a guardar os dados de forma persistente usando entradas SQL com o `sqflite`.
+Esse repositório é uma continuação das funcionalidades criadas no projeto [Bytebank Fundamentos Flutter](https://github.com/alura-cursos/flutter-fundamentos).
 
 ## 🔨 Características do projeto
 
-Neste curso você será capaz de criar e salvar novos contatos.
+Neste projeto você será capaz de criar e salvar novos contatos no Bytebank. Além disso aprenderá novos widgets para deixar a interface gráfica ainda mais funcional!
 
-![](Persistencia.gif)
+![GIF animado demonstrando funcionalidade final do projeto](Persistencia.gif)
 
 ## ✔️ Técnicas e tecnologias
 
-**Veja mais de perto o que você aprenderá sobre** :
+**Para desenvolver o projeto, utilizamos as seguintes técnicas e tecnologias:**
 
 - `Material Design`: Refinamento da interface e novos componentes.
 - `sqflite`: Instalar e configurar essa dependência para manipular um banco de dados SQLite.
@@ -23,23 +23,19 @@ Neste curso você será capaz de criar e salvar novos contatos.
 
 ## 📁 Acesso ao projeto
 
-O acesso ao projeto está separado da seguinte forma:
+Cada branch separa uma etapa do desenvolvimento do projeto, estando divididas da seguinte forma:
 
-```
-├── aula-1
-├── aula-2
-├── aula-3
-├── aula-4
-└── aula-5
-```
-
-A branch [aula-1](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-1) é o ponto de partida do repositório, é partindo dela que desenvolveremos a aula-1. Por sua vez, a aula-2 é uma continuação da aula-2 e assim vai sucessivamente. A branch aula-5 é a final, nela você encontra o código final criado no curso até a aula-5.
+- [**aula-1**](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-1) - Implementação do Dashboard
+- [**aula-2**](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-2) - Implementação do Fluxo de Telas
+- [**aula-3**](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-3) - Configuração do Banco de Dados
+- [**aula-4**](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-4) - Integração do Banco de Dados com as Telas
+- [**aula-5**](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-5) - Finalização do Fluxo com o Banco de dados
 
 Você pode [baixar o zip](https://github.com/alura-cursos/flutter-persistencia-interna/archive/aula-5.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-5).
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para executar este projeto você precisa:**
+**Para executar este projeto, você precisa de:**
 
 - Ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina
 - Ter algum editor de códigos ou IDE como o [Android Studio](https://developer.android.com/studio) ou [Intellij Idea](https://www.jetbrains.com/pt-br/idea/download/).
@@ -50,6 +46,6 @@ Para mais instruções sobre a configuração do ambiente, recomendamos a leitur
 
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-persistencia-interna) que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode acessar o curso [Persistência com Flutter: Crie um app com armazenamento interno](https://cursos.alura.com.br/course/flutter-persistencia-interna) que desenvolve o projeto desde o começo!
 
 Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-android)
